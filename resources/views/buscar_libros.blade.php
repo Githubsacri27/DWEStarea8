@@ -39,7 +39,7 @@
 			<p>Realizado por: Rubén Sacristán Mor 46407574-Z <a href="https:///index.html" alt="documentacion">Ver documentación</a></p>
 		</footer>
 		<script>
-			var librosConsultarUrl = "{{url('/libros/consultar')}}";
+			var librosConsultarUrl = "{{secure_url('/libros/consultar')}}";
 		</script>
 		<script src="{{ secure_asset('assets/js/main.js') }}"></script>
 </body>
