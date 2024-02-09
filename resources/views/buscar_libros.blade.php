@@ -36,7 +36,7 @@
 			</p>
 		</div>
 		<footer>
-			<p>Realizado por: Rubén Sacristán Mor 46407574-Z <a href="https:///index.html" alt="documentacion">Ver documentación</a></p>
+			<p>Realizado por: Rubén Sacristán Mor 46407574-Z</p>
 		</footer>
 		<script>
 			var librosConsultarUrl = "{{secure_url('/libros/consultar')}}";
