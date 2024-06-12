@@ -12,7 +12,7 @@
 
 <body>
 	<header>
-		<h1>Tarea Individual 8: Ajax</h1>
+		<h1>Biblioteca</h1>
 	</header>
 	<main>
 		<div class="container mt-4">
